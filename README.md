@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a PreFinal Year Undergraduate at National Institute of Technology Raipur in Information Technology Branch.
 
 <!--
 **Ashish-kumar7/Ashish-kumar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
