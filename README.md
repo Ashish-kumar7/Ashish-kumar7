@@ -36,9 +36,8 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> </a> </p>
-
+<hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-kumar7&show_icons=true&locale=en&layout=compact" alt="ashish-kumar7" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish-kumar7&show_icons=true&locale=en" alt="ashish-kumar7" /></p>
-
+<hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kumar7&" alt="ashish-kumar7" /></p>
