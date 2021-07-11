@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Ashish Kumar</h1>
 <h3 align="center">Undergraduate at National Institute of Technology Raipur.</h3>
 
-<p align="left"> <a href="https://twitter.com/itsme__ashish" target="blank"><img src="https://img.shields.io/twitter/follow/itsme__ashish?logo=twitter&style=for-the-badge" alt="itsme__ashish" /></a> </p>
+<a href="https://twitter.com/itsme__ashish" class="twitter-follow-button" data-show-count="false">Follow @AshishKumar</a>
 
 - 🌱 Addicted to Coding :)
 
@@ -27,6 +27,11 @@
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> </a>
+  
+  
+<!-- <a href="https://hadoop.apache.org/" target="_blank"> <img src="" alt="Hadoop" width="50" height="50"/> </a> -->
+  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> 
