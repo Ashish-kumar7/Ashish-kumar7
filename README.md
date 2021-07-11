@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itsme__ashish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="itsme__ashish" height="40" width="40" /></a>
-<a href="https://linkedin.com/ashish-7-kumar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ashish-7-kumar/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashish-7-kumar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ashish-7-kumar/" height="40" width="40" /></a>
 </p>
 
 <h2 align="left">Tools and Technologies:</h2>
