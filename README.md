@@ -48,7 +48,7 @@
 <p align="left">
 <a href="https://github.com/Ashish-kumar7">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ashish-kumar7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="ashish-kumar7" />
- <img height="200em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ashish-kumar7&layout=compact&langs_count=10&theme=midnight-purple"/>
+ <img height="200em" width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ashish-kumar7&layout=compact&langs_count=10&theme=midnight-purple"/>
 </a>
 </p>
 <hr>
