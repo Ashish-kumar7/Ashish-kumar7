@@ -43,6 +43,13 @@
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> </a> </p>
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish-kumar7&show_icons=true&locale=en" alt="ashish-kumar7" /></p>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/Ashish-kumar7">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ashish-kumar7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="ashish-kumar7" />
+ <img height="200em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ashish-kumar7&layout=compact&langs_count=10&theme=midnight-purple"/>
+</a>
+</p>
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kumar7&" alt="ashish-kumar7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kumar7&theme=midnight-purple" alt="ashish-kumar7" /></p>
