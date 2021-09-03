@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Ashish Kumar</h1>
 <h3 align="center">Undergraduate at National Institute of Technology Raipur.</h3>
 
-<a href="https://twitter.com/itsme__ashish" class="twitter-follow-button" data-show-count="false">Follow @AshishKumar</a>
-
 - 📫 Reach me at: **ashishkumar357ak@gmail.com**
 - 📫 Reach me at: <a href="https://www.linkedin.com/in/ashish-7-kumar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ashish-7-kumar/" height="20" width="20" /></a>
 
