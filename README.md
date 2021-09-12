@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Ashish Kumar</h1>
+<h1 align="center">Hello 👋, I am Ashish Kumar</h1>
 <h3 align="center">Undergraduate at National Institute of Technology Raipur.</h3>
 
 - 📫 Reach me at: **ashishkumar357ak@gmail.com**
