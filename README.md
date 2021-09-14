@@ -29,10 +29,10 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="left">
 <a href="https://github.com/Ashish-kumar7">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=ashish-kumar7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=ashish-kumar7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
   <hr>
- <img height="300em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ashish-kumar7&layout=compact&langs_count=10&theme=midnight-purple"/>
+ <img height="250em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ashish-kumar7&layout=compact&langs_count=10&theme=midnight-purple"/>
 </a>
 </p>
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kumar7&theme=midnight-purple"/></p>
+<p><img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kumar7&theme=midnight-purple"/></p>
