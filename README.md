@@ -35,4 +35,4 @@
 </a>
 </p>
 <hr>
-<p><img height="210em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kumar7&theme=midnight-purple"/></p>
+<p><img height="210em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kumar7&theme=midnight-purple&count_private=true"/></p>
