@@ -34,5 +34,3 @@
  <img height="220em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ashish-kumar7&layout=compact&langs_count=10&theme=midnight-purple"/>
 </a>
 </p>
-<hr>
-<p><img height="210em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kumar7&theme=midnight-purple&count_private=true"/></p>
