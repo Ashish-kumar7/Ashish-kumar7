@@ -15,7 +15,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-### 🛠 &nbsp;Tools and Technologies:
+### 🛠 &nbsp;Tools & Technologies:
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-Spring-000?&logo=SpringBoot)&nbsp;
