@@ -35,3 +35,6 @@
 </a>
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ashish-kumar7&theme=midnight-purple" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashish-kumar7&theme=onedar)]
+
