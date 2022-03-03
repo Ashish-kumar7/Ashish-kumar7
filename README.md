@@ -33,8 +33,6 @@
 <p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ashish-kumar7&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p>
 
-<br>
-<br>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ashish-kumar7&theme=gruvbox&hide_border=false&area=true&include_all_commits=true&count_private=true)
 
